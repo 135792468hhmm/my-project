@@ -1,0 +1,23 @@
+* {
+    font-size: large;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: rgb(24, 6, 126);
+    background-color: blanchedalmond;
+}
+.message {
+    color: rgb(24, 6, 126);
+    margin: auto;
+    width: 60%; 
+    padding:70px 0;
+   /* justify-content: center; */
+   border: 30px  rgb(5, 3, 0);
+}
+.message h1 {
+    font-size: 50px;
+    text-align: center;
+    color: rgb(24, 6, 126);
+    background-color: blanchedalmond;
+    
+}
